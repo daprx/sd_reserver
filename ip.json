@@ -20,12 +20,16 @@
             "id":"168.199.21.169",
             "keys":"SD:S53496N"
         },
-         {
+        {
             "name": "sd_reserver",
             "id":"102.129.139.153",
             "keys":"SD:S53RE96N"
+        },
+        {
+            "name": "sd_npcrepair",
+            "id":"203.78.128.5",
+            "keys":"SD:FK65KJG9"
         }
-        
         
     ]
 }
