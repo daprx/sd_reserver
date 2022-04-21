@@ -39,7 +39,11 @@
             "name": "sd_npcrepair",
             "id":"103.253.74.193",
             "keys":"SD7G5SC9M"
+        },
+        {
+            "name": "sd_carkeys",
+            "id":"191.96.93.161",
+            "keys":"SD7LOSC9C"
         }
-        
     ]
 }
