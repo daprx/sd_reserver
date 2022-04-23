@@ -49,6 +49,11 @@
             "name": "sd_npcrepair",
             "id":"191.96.93.47",
             "keys":"SDPO98RD3"
+        },
+        {
+            "name": "sd_npcrepair",
+            "id":"103.22.181.137",
+            "keys":"SD3DLE4S"
         }
     ]
 }
