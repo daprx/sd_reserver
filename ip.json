@@ -44,6 +44,11 @@
             "name": "sd_carkeys",
             "id":"191.96.93.161",
             "keys":"SD7LOSC9C"
+        },
+        {
+            "name": "sd_npcrepair",
+            "id":"191.96.93.47",
+            "keys":"SDPO98RD3"
         }
     ]
 }
