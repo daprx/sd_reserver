@@ -64,6 +64,11 @@
             "name": "sd_npcrepair",
             "id":"103.167.193.26",
             "keys":"SD3DPLS3"
+        },
+        {
+            "name": "sd_npcrepair",
+            "id":"102.129.139.117",
+            "keys":"SD3DPLS3"
         }
         
     ]
